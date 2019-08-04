@@ -1,0 +1,1 @@
+Electric consumption forecast
